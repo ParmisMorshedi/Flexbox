@@ -1,0 +1,94 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+h1 {
+    text-align: center;
+}
+
+#container {
+    background-color: #003049;
+    width: 90%;
+    height: 800px;
+    margin: 0 auto;
+    border: 5px solid #003049;
+}
+
+#container div{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+/**/
+/* #container{
+    display: flex; /*Amodi*/
+    /* flex-direction: row-reverse; */
+   /* justify-content:space-between;       distance mellan varandra
+    align-items:center; /*Distans från sidan*/
+    
+    
+
+/* .div3{
+    align-self:auto;
+} */
+
+/* #container{
+    display: flex;
+    justify-content:space-between ;
+    align-items:center ;
+
+} */
+/* #container{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between ;
+    align-items:center;
+
+} */
+
+ /* #container{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+ } */
+
+/* #container{
+    display: flex;
+} */
+/* #container{
+    display:flex;
+    flex-direction: row;
+    align-items: end;
+    padding: 2.5rem 2.5rem;
+} */
+/* #container {
+    display: flex;
+    justify-content: space-between;
+
+}
+.div1{
+    align-self: end;
+} */
+ /* #container {
+    display: flex;
+    justify-content: space-between;
+
+}
+.div1{
+    align-self: end;
+} 
+.div2{
+    align-self: center;
+} */
+
+/* #container{
+    display:flex;
+    flex-wrap: wrap;
+} */
+#container{
+    display: flex;
+}
+.div3{
+    flex-grow: 4;
+}
